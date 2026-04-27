@@ -96,6 +96,7 @@ It focuses on understanding **customer behavior, driver performance, revenue tre
 
 ### 📌 Overall Dashboard
 Displays total bookings, successful rides, and booking trends over time.
+<img src="https://github.com/your-username/Ola-Ride-Analysis/raw/main/screenshots/overall.png" width="800">
 
 ![Overall]("C:\Users\ambis\Pictures\Screenshots\Screenshot 2026-04-27 173341.png")
 
