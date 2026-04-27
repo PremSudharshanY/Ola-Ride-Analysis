@@ -1,22 +1,12 @@
-# 🚖 Ola Ride Analysis
+# 🚖 Ola Ride Analysis Dashboard
 
-## 📌 Overview
-This project analyzes ride booking data using SQL, Python, and Power BI.
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Python](https://img.shields.io/badge/Python-EDA-green)
+![Excel](https://img.shields.io/badge/Excel-DataCleaning-darkgreen)
 
-## 📊 Key Numbers
-- Total Bookings: 600K
-- Successful Rides: 382K
-- Cancellation Rate: 22%
-- Ratings: Around 4.0
+---
 
-## 🛠 Tools Used
-- SQL
-- Python
-- Power BI
-
-## 📈 Insights
-- Prime SUV has highest rating
-- UPI & Cash most used
-- High cancellations due to plan changes
+## 📌 Project
 
 ## 📷 Dashboard Screenshots
