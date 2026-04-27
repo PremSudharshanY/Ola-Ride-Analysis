@@ -130,4 +130,18 @@ Driver and customer ratings across different vehicle types.
 ---
 
 ## 📂 Project Structure
-## 📷 Dashboard Screenshots
+
+---
+
+## 🚀 Conclusion
+This project highlights how data can be used to:
+- Improve **customer experience**
+- Reduce **cancellation rates**
+- Optimize **ride operations**
+- Increase **revenue efficiency**
+
+---
+
+## 📬 Contact
+If you liked this project, feel free to connect!
+
