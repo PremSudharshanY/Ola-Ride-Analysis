@@ -38,7 +38,7 @@ It focuses on understanding **customer behavior, driver performance, revenue tre
 ---
 
 ## 🛠️ Tools & Technologies
-- 🗄️ **SQL** → Data extraction & transformation  
+- 🗄️ **SQL** → Data Insights   
 - 🐍 **Python** → Data cleaning & EDA  
 - 📊 **Power BI** → Dashboard & visualization  
 - 📗 **Excel** → Initial data preprocessing  
