@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/SQL-Insights-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Python-EDA-green?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Excel-DataCleaning-darkgreen?style=for-the-badge&logo=microsoft-excel" />
 </p>
