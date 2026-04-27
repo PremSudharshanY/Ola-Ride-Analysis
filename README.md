@@ -100,37 +100,37 @@ Displays total bookings, successful rides, and booking trends over time.
 
 <img width="1544" height="868" alt="Screenshot 2026-04-27 173341" src="https://github.com/user-attachments/assets/ea69f809-a3aa-4883-b70b-40ef576434c0" />
 
-<img src="[https://github.com/your-username/Ola-Ride-Analysis/raw/main/screenshots/overall](https://github.com/PremSudharshanY/Ola-Ride-Analysis/blob/main/Ola-Ride-Analysis/Screenshots/Screenshot%202026-04-27%20173341.png?raw=true).png" width="800">
-
-![Overall]("C:\Users\ambis\Pictures\Screenshots\Screenshot 2026-04-27 173341.png")
-
 ---
 
 ### 🚗 Vehicle Type Analysis
 Comparison of booking value, success rate, and distance traveled across vehicle types.
 
-![Vehicle](screenshots/vehicle.png)
+<img width="1546" height="861" alt="Screenshot 2026-04-27 173406" src="https://github.com/user-attachments/assets/7664bfec-82b9-445d-befd-2f224f87ab26" />
+
 
 ---
 
 ### 💰 Revenue Analysis
 Shows revenue distribution by payment method.
 
-![Revenue](screenshots/revenue.png)
+<img width="1535" height="861" alt="Screenshot 2026-04-27 173438" src="https://github.com/user-attachments/assets/5181f97b-d9b0-45f4-a225-c032ef7a08a8" />
+
 
 ---
 
 ### ❌ Cancellation Analysis
 Breakdown of cancellations by customers and drivers.
 
-![Cancellation](screenshots/cancellation.png)
+<img width="1548" height="863" alt="Screenshot 2026-04-27 173526" src="https://github.com/user-attachments/assets/f4eedde4-3de6-4199-8169-f43f2edb3382" />
+
 
 ---
 
 ### ⭐ Ratings Analysis
 Driver and customer ratings across different vehicle types.
 
-![Ratings](screenshots/ratings.png)
+<img width="1540" height="864" alt="Screenshot 2026-04-27 173602" src="https://github.com/user-attachments/assets/b780142d-ef39-4879-a1ee-32e087eae0ca" />
+
 
 ---
 
